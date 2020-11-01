@@ -15,7 +15,7 @@
 
 ## Preview
 
-![item zsh prompt](https://github.com/guesswhozzz/guezwhoz-zshell/blob/master/about/iterm2020-10-21.png)
+![item zsh prompt](https://github.com/guesswhozzz/guezwhoz-zshell/blob/theme/demos/theme-demo-5.18.01.png?raw=true)
 
 ---
 
